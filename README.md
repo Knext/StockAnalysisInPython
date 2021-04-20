@@ -9,3 +9,8 @@
 - 서적에 삽입된 그림의 PPT 원본은 PowerPoint_Materials.pptx 파일에 있습니다.
 
 ![Portpolio_optimization](./06_Trading_Strategy/imgs/Portpolio_optimization.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKnext%2FStockAnalysisInPython.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FKnext%2FStockAnalysisInPython?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKnext%2FStockAnalysisInPython.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FKnext%2FStockAnalysisInPython?ref=badge_large)
